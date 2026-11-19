@@ -36,9 +36,8 @@ Interactive charts are created using Plotly, including:
 ![(image)](https://github.com/faizanalam06/E-COMMERCE-SALES-ANALYSIS/blob/9b0fe7a89232d83c6ea20ec9dfac566f9d8a0a8e/1IMAGE.png)
 - Line Charts
 ![(image)](https://github.com/faizanalam06/E-COMMERCE-SALES-ANALYSIS/blob/e428fee57a6b604b761349e6b055690c565b6345/2IMAGE.png)
-
 - Pie Charts
-- Combined Sales and Profit Charts
+  ![(image)](https://github.com/faizanalam06/E-COMMERCE-SALES-ANALYSIS/blob/28a57d0fe5a8f5d400e160671db7a01e6137effe/newplot.png)
 
 
 ## Project Objective
