@@ -31,12 +31,12 @@ The project covers the following analyses:
 - **Sub-Ctio:** Calculated the sales-to-profit ratio for each customer segment.
 
 ## Visualizations
-!([image])(https://github.com/faizanalam06/E-COMMERCE-SALES-ANALYSIS/blob/9b0fe7a89232d83c6ea20ec9dfac566f9d8a0a8e/1IMAGE.png)
 Interactive charts are created using Plotly, including:
-
-
-- Line Charts
 - Bar Charts
+![(image)](https://github.com/faizanalam06/E-COMMERCE-SALES-ANALYSIS/blob/9b0fe7a89232d83c6ea20ec9dfac566f9d8a0a8e/1IMAGE.png)
+- Line Charts
+![(image)]()
+
 - Pie Charts
 - Combined Sales and Profit Charts
 
