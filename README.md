@@ -22,11 +22,11 @@ Plotly is used to create dynamic charts that allow users to hover over visual el
 
 The project covers the following analyses:
 
-- **ategory Sales Analysis:** Examined sales across different product sub-categories.
+- **Category Sales Analysis:** Examined sales across different product sub-categories.
 - **Monthly Profit Analysis:** Analyzed monthly profit trends.
 - **Sub-Category Profit Analysis:** Compared profit across product sub-categories.
 - **Customer Segment Analysis:** Compared sales and profit across customer segments.
-- **Sales-to-Profit RaMonthly Sales Analysis:** Calculated monthly sales and explored the highest and lowest sales months.
+- **Sales-to-Profit Monthly Sales Analysis:** Calculated monthly sales and explored the highest and lowest sales months.
 - **Category-wise Sales Analysis:** Compared sales performance across product categories.
 - **Sub-Ctio:** Calculated the sales-to-profit ratio for each customer segment.
 
