@@ -14,8 +14,7 @@ Plotly is used to create dynamic charts that allow users to hover over visual el
 - Pandas
 - Plotly Express
 - Plotly Graph Objects
-- Matplotlib
-- Seaborn
+- matplotlib
 - Jupyter Notebook
 
 ## Project Analysis
